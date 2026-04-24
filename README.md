@@ -52,3 +52,6 @@ Open browser: http://127.0.0.1:8000/docs
 ## Developer
 Nagula Vyshnavi
 Email: nagulavyshnavi608@gmail.com
+
+Live API: https://medical-interaction-ai-agent-1.onrender.com
+API Docs: https://medical-interaction-ai-agent-1.onrender.com/docs
