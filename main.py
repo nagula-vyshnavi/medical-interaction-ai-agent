@@ -29,4 +29,4 @@ def ai_endpoint(data: InputModel):
 
 @app.get("/")
 def home():
-    return {"message": "Server running 🚀"}
+    return {"message": "API is running"}
