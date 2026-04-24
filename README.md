@@ -38,7 +38,12 @@ Add: GROQ_API_KEY=your_key_here
 uvicorn main:app --reload --port 8000
 
 ### Step 5 - Test API
-Open browser: http://127.0.0.1:8000/docs
+Open browser:
+Local:
+http://127.0.0.1:8000/docs
+
+Live:
+https://medical-interaction-ai-agent-1.onrender.com/docs
 
 ## Sample Output
 {
